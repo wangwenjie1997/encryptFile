@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="encryptFile:jar">
+    <output-path>F:/</output-path>
+    <root id="archive" name="encryptFile.jar">
+      <element id="module-output" name="encryptFile" />
+    </root>
+  </artifact>
+</component>
